@@ -1,0 +1,50 @@
+h1{
+    font-size: 4rem;
+    text-align: center;
+}
+
+h2{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+nav{
+background-color: #2820FF;
+display: flex;
+justify-content: space-evenly;
+
+color: white;
+margin-bottom: 2rem;
+}
+
+nav p:hover{
+    text-decoration: underline;
+}
+
+main{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+img{
+    width: 20%;
+    margin:24px 12px;
+
+}
+
+iframe{
+    width: 100%;
+}
+
+.map{
+    background-color: black;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+
+
+
+
